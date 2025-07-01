@@ -21,7 +21,7 @@ def web_search(query):
     print(f"Searching for: {query}")
     print(f"Number of results to fetch: {num_results}")
     try:
-        for idx, url in enumerate(search(query, stop=num_results), 1):
+        for idx, url in enumerate(search(query, num_results=num_results), 1):
             links.append(url)
             print(f"[{idx}/{num_results}] {url}")  
             time.sleep(random.uniform(1, 3))      # Random delay between 1 and 3 seconds

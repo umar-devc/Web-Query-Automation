@@ -1,0 +1,6 @@
+https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/female.txt
+https://weakpass.com/wordlists/common_names.txt
+https://github.com/arineng/arincli/blob/master/lib/female-first-names.txt
+https://pastebin.com/Yv9b0BfK
+https://pastebin.com/ck48RG8N
+https://pastebin.com/tvcUtA3k
